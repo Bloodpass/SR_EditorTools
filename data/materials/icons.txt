@@ -1,4 +1,0 @@
-SpriteSheet: EditorToolIcons
-	Inherit: Image2D
-	Texture: data/images/editor_tool_icons.png
-	Size: 16,16
